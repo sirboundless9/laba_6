@@ -32,7 +32,7 @@ def get_currency_rates():
 logging.basicConfig(level=logging.INFO)
 
 # Получение токена из переменных окружения
-bot_token = ('6096496499:AAFRUkXArCvQoQQ-2mly8sI-OFhXDrQwm7Q')
+bot_token = ('6121301545:AAEFl8I_lmMPldudcCuhGtJk9vT_F90sIm4')
 
 # Создание бота с токеном, который выдал в BotFather при регистрации бота
 bot = Bot(token=bot_token)
